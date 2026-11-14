@@ -1,0 +1,11 @@
+spacy
+nltk
+scikit-learn
+pandas
+dateparser
+sentence-transformers
+faiss-cpu
+streamlit
+fpdf2
+python-dotenv
+requests
