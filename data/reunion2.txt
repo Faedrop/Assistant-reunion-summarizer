@@ -1,0 +1,25 @@
+[00:00] Karim: Bon euh, bonjour tout le monde, on commence. L'objectif aujourd'hui c'est de faire le point sur l'application mobile.
+[00:15] Sara: Bonjour. Alors, euh, côté développement, on a terminé l'écran de connexion et l'écran d'accueil.
+[00:40] Youssef: Moi j'ai un souci avec les notifications, hmm, ça ne marche pas sur Android pour l'instant.
+[01:00] Karim: D'accord. Est-ce que tu penses pouvoir régler ça rapidement ?
+[01:08] Youssef: Oui oui, je pense que c'est un problème de configuration, euh, je regarde ça demain.
+[01:25] Karim: Parfait. Donc Youssef, tu corriges les notifications Android d'ici jeudi.
+[01:35] Youssef: Ok, jeudi c'est bon pour moi.
+[01:50] Leila: Moi j'ai une question sur le planning. On avait dit sortie fin janvier, non ?
+[02:05] Karim: Oui, mais avec le retard sur les notifications, euh, je pense qu'il vaut mieux décaler.
+[02:20] Sara: Je suis d'accord, on ne peut pas sortir une application avec des bugs.
+[02:35] Karim: Alors on a décidé de repousser la sortie au 10 février.
+[02:45] Leila: Ok, ça me va. Je préviens le client alors.
+[02:55] Leila: Je vais envoyer un mail au client avant mardi prochain pour lui annoncer la nouvelle date.
+[03:15] Karim: Très bien. Maintenant parlons du budget des tests.
+[03:30] Sara: On avait prévu 3000 dirhams, mais euh, avec les tests sur plusieurs téléphones ça risque de monter.
+[03:50] Youssef: Moi je trouve qu'on devrait louer quelques téléphones plutôt que les acheter.
+[04:05] Karim: Bonne idée. Donc il est décidé qu'on loue les téléphones de test, avec un budget maximum de 4000 dirhams.
+[04:20] Leila: Je me charge de demander des devis à deux fournisseurs d'ici la fin de la semaine.
+[04:40] Sara: Et moi je vais écrire le plan de test complet pour le lundi 24 novembre.
+[04:55] Karim: Super. Une dernière chose, la prochaine réunion.
+[05:05] Youssef: Moi je préfère le matin, hmm, c'est plus calme.
+[05:15] Karim: Ok, on valide la prochaine réunion lundi à 10 heures, même salle.
+[05:30] Sara: Parfait pour moi.
+[05:40] Karim: Bien, je vais envoyer le compte rendu à toute l'équipe ce soir.
+[05:50] Karim: Merci à tous, bonne fin de journée.

@@ -1,22 +1,29 @@
 import spacy
 
-# On charge le modèle français une seule fois
+# On charge le modèle français de spaCy (une seule fois)
 nlp = spacy.load("fr_core_news_md")
 
 
-def split_sentences(utterances):
-    """Découpe chaque prise de parole en phrases (avec locuteur et heure)."""
+def decouper_en_phrases(prises):
+    """Coupe chaque prise de parole en phrases.
+    On garde l'heure et le nom de celui qui parle avec chaque phrase."""
     phrases = []
 
-    for u in utterances:
-        doc = nlp(u["text"])          # spaCy analyse le texte
-        for sent in doc.sents:        # doc.sents = les phrases détectées
-            texte = sent.text.strip()
-            if len(texte.split()) >= 3:   # on ignore les phrases trop courtes
-                phrases.append({
-                    "id": len(phrases),
-                    "time": u["time"],
-                    "speaker": u["speaker"],
-                    "text": texte,
-                })
+    for prise in prises:
+        doc = nlp(prise["text"])       # spaCy analyse le texte
+
+        for morceau in doc.sents:      # doc.sents = les phrases trouvées
+            texte = morceau.text.strip()
+
+            # On ignore les phrases de moins de 3 mots ("Oui.", "Parfait.")
+            if len(texte.split()) < 3:
+                continue
+
+            phrases.append({
+                "id": len(phrases),
+                "time": prise["time"],
+                "speaker": prise["speaker"],
+                "text": texte,
+            })
+
     return phrases

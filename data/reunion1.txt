@@ -1,1 +1,12 @@
-aujourdhui nous allong euh parler des transformers.
+[00:00] Karim: Bon euh, bonjour à tous, on va commencer la réunion sur le lancement du site.
+[00:20] Sara: Oui, donc, euh, je voulais dire que le design est presque fini, hmm, il reste la page contact.
+[00:45] Karim: D'accord. Donc on a décidé que le lancement aura lieu le 15 décembre.
+[01:10] Youssef: Ok, mais euh, il faut que quelqu'un teste le formulaire de paiement.
+[01:30] Karim: Youssef, tu peux t'en occuper avant vendredi ?
+[01:35] Youssef: Oui oui, pas de problème, je teste ça avant vendredi.
+[02:00] Sara: Moi je vais terminer la page contact d'ici mercredi prochain.
+[02:30] Karim: Très bien. Passons au budget maintenant.
+[02:50] Leila: Le budget marketing est de 5000 dirhams, euh, on a validé ça avec la direction.
+[03:20] Karim: Donc décision prise : on garde 5000 dirhams pour le marketing.
+[03:40] Leila: Je vais préparer le plan des réseaux sociaux pour la semaine prochaine.
+[04:10] Karim: Parfait. Merci tout le monde, la réunion est terminée.

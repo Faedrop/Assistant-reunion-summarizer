@@ -1,0 +1,331 @@
+phrase,label
+On a décidé de lancer le projet en janvier.,decision
+Il est décidé que la réunion hebdomadaire aura lieu le lundi matin.,decision
+On valide le budget de dix mille dirhams pour le marketing.,decision
+Donc c'est acté on passe à la version deux du site.,decision
+La décision est prise de changer de prestataire.,decision
+On retient la solution proposée par Sara.,decision
+Il est convenu que chaque livrable sera relu par deux personnes.,decision
+On part sur Python pour le développement du module.,decision
+Ok c'est validé on recrute un deuxième développeur.,decision
+Nous avons décidé de reporter la livraison à la semaine prochaine.,decision
+C'est décidé on garde le même fournisseur.,decision
+On adopte la méthode agile pour la suite du projet.,decision
+Il a été décidé de supprimer la fonctionnalité de partage.,decision
+Le comité a validé le nouveau planning.,decision
+On tranche pour l'option la moins chère.,decision
+Donc décision finale on migre vers le cloud en mars.,decision
+On a voté et la proposition de Karim est adoptée.,decision
+Il est entendu que le prix reste inchangé pour cette année.,decision
+On a arrêté la date de la formation au quinze mars.,decision
+La direction a approuvé l'achat de dix ordinateurs.,decision
+On décide de fermer le ticket sans correction.,decision
+Nous choisissons l'offre numéro deux.,decision
+C'est réglé on garde l'ancienne interface.,decision
+Il est décidé d'annuler la réunion du vendredi.,decision
+On confirme le lancement de la campagne pour le premier avril.,decision
+On a pris la décision d'arrêter le projet pilote.,decision
+La proposition est acceptée à l'unanimité.,decision
+On valide la maquette telle qu'elle est.,decision
+Il est convenu de passer en télétravail deux jours par semaine.,decision
+On a tranché on utilise PostgreSQL pour la base de données.,decision
+Décision prise on ne change pas la date de sortie.,decision
+On approuve le recrutement du stagiaire.,decision
+On retient le fournisseur le plus rapide.,decision
+Il est acté que le budget formation augmente de vingt pour cent.,decision
+On a décidé d'externaliser la maintenance.,decision
+Ok donc on valide la version finale du contrat.,decision
+Nous avons convenu de tenir un point rapide chaque matin.,decision
+La décision est de garder deux environnements de test.,decision
+On choisit de commencer par le module de facturation.,decision
+Il est décidé que les congés seront validés par le responsable.,decision
+On abandonne l'idée du chat en direct.,decision
+On a validé le choix du nom de domaine.,decision
+C'est acté la salle de réunion sera réservée chaque lundi.,decision
+On a décidé de doubler l'équipe support pendant le lancement.,decision
+Le principe est adopté on passe à la phase de test.,decision
+On part sur un abonnement mensuel plutôt qu'annuel.,decision
+On a arrêté la liste des invités pour la conférence.,decision
+On décide de publier la mise à jour dimanche soir.,decision
+Donc on est d'accord on accepte l'offre du client.,decision
+Il est décidé de réduire le périmètre du projet.,decision
+On entérine le changement de responsable du projet.,decision
+On a choisi la solution open source.,decision
+Validé on utilise l'outil de suivi proposé par l'équipe technique.,decision
+La décision a été prise de ne pas augmenter les tarifs.,decision
+On retient le deuxième scénario pour la migration.,decision
+Nous décidons de lancer un appel d'offres.,decision
+C'est décidé le séminaire aura lieu à Marrakech.,decision
+On valide l'augmentation du budget de test.,decision
+Il est convenu qu'on refuse cette demande de modification.,decision
+On a décidé de mettre en pause le développement de l'application web.,decision
+Le choix est fait on prend le forfait premium.,decision
+On confirme que la livraison se fera en deux étapes.,decision
+Décision actée on remplace l'ancien serveur.,decision
+On a validé le principe d'une revue de code obligatoire.,decision
+Il est décidé que les réunions ne dépasseront pas une heure.,decision
+On accepte la proposition de report du client.,decision
+On a arrêté le choix du logo définitif.,decision
+On adopte le nouveau format de rapport mensuel.,decision
+La majorité a décidé de garder le planning actuel.,decision
+On valide le recours à un consultant externe.,decision
+Ok c'est tranché on ne participe pas au salon cette année.,decision
+Il est entendu qu'on suspend les recrutements jusqu'en juin.,decision
+On a décidé d'ouvrir une deuxième agence à Casablanca.,decision
+On a choisi de lancer d'abord la version pour Android.,decision
+On valide la répartition du budget entre les trois équipes.,decision
+On a convenu de fixer le prix à quatre-vingt-dix dirhams.,decision
+Décision prise tout le monde passe sur la nouvelle messagerie.,decision
+On a arrêté de travailler avec l'ancien outil de facturation.,decision
+La direction a tranché le projet continue.,decision
+On valide la date du onze décembre pour la démonstration.,decision
+Il est décidé de former toute l'équipe avant le lancement.,decision
+On retient la proposition de financement de la banque.,decision
+On confirme le choix du prestataire de transport.,decision
+On décide de ne plus utiliser de papier dans le bureau.,decision
+On a approuvé le plan de communication.,decision
+Nous avons décidé de mutualiser les serveurs.,decision
+La décision de fusionner les deux équipes est actée.,decision
+On valide l'ordre du jour pour la prochaine réunion.,decision
+C'est décidé on teste d'abord sur un petit groupe.,decision
+On a tranché pour une livraison le vendredi.,decision
+Il est acté que la documentation sera rédigée en français.,decision
+On opte pour la formule hybride pour le séminaire.,decision
+On a retenu trois candidats pour la suite du recrutement.,decision
+La proposition de réduire les coûts est adoptée.,decision
+On valide le déploiement en production pour mercredi.,decision
+Il est décidé qu'on garde l'application telle quelle pour l'instant.,decision
+On a décidé de passer au paiement en ligne.,decision
+Décision validée on n'embauche pas cette année.,decision
+On entérine la nouvelle organisation des équipes.,decision
+On a arrêté la version finale du cahier des charges.,decision
+Youssef va tester le module de paiement avant vendredi.,action
+Je m'occupe de réserver la salle pour mardi.,action
+Sara doit envoyer le rapport à la direction d'ici lundi.,action
+Je vais contacter le fournisseur dès demain matin.,action
+Karim prépare la présentation pour la semaine prochaine.,action
+Leila se charge de rédiger le cahier des charges.,action
+Je t'envoie le document avant ce soir.,action
+Amine va corriger le bug de connexion cette semaine.,action
+Il faut que quelqu'un mette à jour le planning avant jeudi.,action
+Je vais relire le contrat et te faire un retour demain.,action
+Nadia doit appeler le client pour confirmer la date.,action
+Je me charge de créer le compte sur la plateforme.,action
+On va devoir préparer les slides pour mercredi prochain.,action
+Hamza est chargé de déployer la nouvelle version vendredi.,action
+Je m'engage à terminer la maquette d'ici la fin du mois.,action
+Salma va organiser la formation pour toute l'équipe.,action
+Je vais mettre à jour la documentation dans les prochains jours.,action
+Omar doit vérifier les factures avant la fin de la semaine.,action
+Je te renvoie les chiffres corrigés lundi matin.,action
+Meriem enverra l'invitation à tous les participants demain.,action
+Je prends en charge la migration de la base de données.,action
+Il faudra que Karim valide le budget avant mardi.,action
+Je vais demander trois devis à des fournisseurs différents.,action
+Yassine s'occupe de commander le matériel cette semaine.,action
+Je rédige le compte rendu et je l'envoie ce soir.,action
+Sara va préparer le jeu de données de test pour jeudi.,action
+Je dois finir le rapport avant le vingt novembre.,action
+Imane va relancer le client si on n'a pas de réponse lundi.,action
+Je vais installer l'outil sur tous les postes d'ici vendredi.,action
+Mehdi doit réécrire la page d'accueil avant mercredi.,action
+Je m'occupe de prévenir l'équipe du changement de date.,action
+Zineb est responsable de la traduction des documents.,action
+Je vais tester la nouvelle fonctionnalité demain après-midi.,action
+Bilal envoie les accès aux nouveaux arrivants lundi.,action
+Je fais un point avec la direction la semaine prochaine.,action
+Tu t'occupes de la présentation pour le client avant jeudi.,action
+Je vais appeler le prestataire pour négocier le prix.,action
+Rachid doit publier l'annonce sur le site avant dimanche.,action
+Je vais préparer l'ordre du jour de la prochaine réunion.,action
+Fatima se charge de collecter les retours des utilisateurs.,action
+Je renvoie la version corrigée du contrat demain.,action
+Il faut qu'on teste le formulaire avant la mise en ligne.,action
+Anas va rédiger les spécifications techniques pour lundi.,action
+Je me charge d'envoyer les convocations ce soir.,action
+Sofia doit mettre à jour le tableau de bord chaque vendredi.,action
+Je vais regarder le problème de performance dès demain.,action
+Driss prépare le budget prévisionnel pour la fin du mois.,action
+Je vais écrire au client pour lui expliquer le retard.,action
+Kenza va créer les comptes utilisateurs avant mardi.,action
+Je dois valider la maquette avec le designer cette semaine.,action
+Hicham s'engage à livrer le prototype dans dix jours.,action
+Je vais envoyer un rappel à toute l'équipe jeudi matin.,action
+Il faudra que quelqu'un sauvegarde les données avant la migration.,action
+Ghita doit finaliser le recrutement d'ici fin décembre.,action
+Je prends le sujet des assurances et je reviens vers vous lundi.,action
+Tarik va vérifier la compatibilité avec les anciens téléphones.,action
+Je prépare la démonstration pour la réunion de mercredi.,action
+Nour se charge de commander les repas pour le séminaire.,action
+Je vais corriger les fautes dans le rapport avant ce soir.,action
+Adil doit transmettre les documents au comptable avant vendredi.,action
+Je vais organiser une réunion avec les fournisseurs la semaine prochaine.,action
+Houda va rédiger le guide utilisateur d'ici le quinze.,action
+Je m'engage à répondre aux candidats avant mardi.,action
+Younes devra configurer le serveur de test demain.,action
+Je vais faire la mise à jour du site pendant le week-end.,action
+Samir contacte l'agence pour obtenir un nouveau devis.,action
+Je prépare les affiches pour l'événement avant jeudi.,action
+Wafa doit relire tous les contrats avant la signature.,action
+Je me charge de faire le suivi des commandes chaque semaine.,action
+Il faut que tu m'envoies les photos avant lundi.,action
+Ilyas va lancer les tests automatiques cette nuit.,action
+Je vais mettre en place le tableau de suivi dès aujourd'hui.,action
+Soukaina prépare le support de formation pour mercredi.,action
+Je dois rappeler la banque demain matin.,action
+Marouane va récupérer le matériel chez le fournisseur vendredi.,action
+Je vais compléter la liste des participants avant la fin de journée.,action
+Aya est chargée d'animer l'atelier de jeudi.,action
+Je ferai le point sur les dépenses à la fin du mois.,action
+Reda s'occupe de renouveler la licence du logiciel.,action
+Je vais envoyer les identifiants par mail ce soir.,action
+Il faut qu'on réécrive la section budget avant mardi.,action
+Majda doit présenter les résultats à la direction lundi prochain.,action
+Je me charge de nettoyer les données avant l'analyse.,action
+Walid va installer la mise à jour sur le serveur demain soir.,action
+Je vais réserver les billets d'avion pour toute l'équipe.,action
+Lamia prépare les contrats pour les nouveaux employés.,action
+Je vais rédiger un résumé de la réunion pour les absents.,action
+Othmane doit finir l'intégration de l'API avant la fin de semaine.,action
+Je vais lancer la campagne d'emails dès que le texte est validé.,action
+Chaimae va vérifier les chiffres avec la comptabilité.,action
+Je m'engage à livrer la première version le trente novembre.,action
+Il faudra que l'équipe technique corrige la faille avant lundi.,action
+Soufiane prépare le rapport d'incident pour demain.,action
+Je vais discuter avec le client pour clarifier ses besoins.,action
+Btissam va mettre à jour la liste des contacts cette semaine.,action
+Je dois déposer le dossier à l'administration avant vendredi.,action
+Anas se charge d'imprimer les documents pour la réunion.,action
+Je vais préparer un plan de test complet pour la semaine prochaine.,action
+Jihane contactera les participants pour confirmer leur présence.,action
+Je vais regarder avec toi les statistiques de la semaine dernière.,action
+Bonjour à tous merci d'être là.,autre
+On va commencer la réunion.,autre
+Le design est presque terminé.,autre
+Est-ce que tout le monde m'entend bien ?,autre
+Je trouve que le planning est un peu serré.,autre
+Le client n'était pas très content hier.,autre
+Les ventes ont augmenté de dix pour cent ce mois-ci.,autre
+Qui peut me rappeler où on en était ?,autre
+Je ne suis pas sûr que ce soit la bonne approche.,autre
+Merci à tous pour votre participation.,autre
+Il y a encore quelques bugs sur la page de paiement.,autre
+On pourrait peut-être envisager une autre solution.,autre
+Le serveur a été très lent cette semaine.,autre
+Désolé j'ai eu un problème de connexion.,autre
+La réunion de la semaine dernière était assez longue.,autre
+Je pense que le budget est un peu trop élevé.,autre
+Quelqu'un a des questions sur ce point ?,autre
+Le nouveau logiciel est plutôt facile à utiliser.,autre
+Ça fait trois semaines qu'on travaille sur ce sujet.,autre
+Je ne comprends pas très bien la demande du client.,autre
+Excusez-moi je suis arrivé en retard.,autre
+Le marché est très compétitif en ce moment.,autre
+On avait parlé de ça lors de la dernière réunion.,autre
+Je me demande si cette option est vraiment utile.,autre
+Le rapport est disponible sur le dossier partagé.,autre
+Les résultats du trimestre sont plutôt bons.,autre
+Je vous propose de passer au point suivant.,autre
+Il fait très chaud dans cette salle.,autre
+Le projet avance bien dans l'ensemble.,autre
+Est-ce qu'on a des nouvelles du fournisseur ?,autre
+Je suis d'accord avec ce que vient de dire Sara.,autre
+Cette fonctionnalité est très demandée par les utilisateurs.,autre
+Pour moi le plus important c'est la qualité.,autre
+L'équipe a fait un excellent travail ce mois-ci.,autre
+Je ne sais pas encore combien ça va coûter.,autre
+Le nombre de clients a baissé depuis octobre.,autre
+On a reçu beaucoup de retours positifs.,autre
+Quelqu'un peut partager son écran s'il vous plaît ?,autre
+Ce problème existe depuis longtemps.,autre
+Je pense qu'on manque un peu de temps.,autre
+L'application plante parfois sur les vieux téléphones.,autre
+Bonne journée à tous et à bientôt.,autre
+C'est un sujet assez compliqué à mon avis.,autre
+Le concurrent a lancé un produit similaire.,autre
+Je voulais juste donner mon avis sur la question.,autre
+On n'a pas encore tous les chiffres.,autre
+Avez-vous lu le document que j'ai envoyé ?,autre
+Le budget de l'année dernière était plus bas.,autre
+C'est une bonne idée mais je ne suis pas convaincu.,autre
+Le test a duré deux heures environ.,autre
+Je suis content de voir autant de monde aujourd'hui.,autre
+La situation est un peu compliquée pour le moment.,autre
+Il y a eu beaucoup de changements récemment.,autre
+On peut en discuter plus tard si vous voulez.,autre
+Les utilisateurs se plaignent surtout de la lenteur.,autre
+Je crois qu'il y a une erreur dans ce tableau.,autre
+Qu'est-ce que vous en pensez tous ?,autre
+Le dernier sprint s'est bien passé.,autre
+Il manque encore des informations sur ce dossier.,autre
+L'ancien système ne fonctionnait pas très bien.,autre
+Je vous remercie pour cette présentation claire.,autre
+Cette période de l'année est toujours chargée.,autre
+Je n'ai pas d'avis particulier sur ce point.,autre
+Le fournisseur est souvent en retard.,autre
+On a eu une coupure d'électricité hier.,autre
+Pouvez-vous répéter la dernière phrase s'il vous plaît ?,autre
+Il y avait beaucoup de monde au salon.,autre
+Je pense qu'on devrait réfléchir encore un peu.,autre
+Les chiffres de ce mois sont dans le fichier.,autre
+Ce sujet reviendra sûrement à la prochaine réunion.,autre
+Le client habite à Casablanca.,autre
+La dernière version est plus rapide que la précédente.,autre
+Je ne suis pas disponible la semaine prochaine.,autre
+C'était un très bon séminaire l'année dernière.,autre
+Les coûts de transport ont beaucoup augmenté.,autre
+On a déjà essayé cette solution sans succès.,autre
+Je vous écoute pour la suite.,autre
+Le problème vient peut-être du réseau.,autre
+Il y a eu un malentendu avec le client.,autre
+La qualité des données est assez variable.,autre
+Cette réunion est un peu longue aujourd'hui.,autre
+Je suis curieux de voir les résultats du test.,autre
+Le planning n'est pas très clair pour moi.,autre
+Le contrat actuel se termine en juin.,autre
+Il y a plusieurs façons de voir les choses.,autre
+L'équipe est un peu fatiguée en ce moment.,autre
+On dirait que le système est de nouveau en panne.,autre
+Le contexte est assez simple à expliquer.,autre
+La salle est réservée jusqu'à midi.,autre
+Le projet a beaucoup évolué depuis le début.,autre
+Vous avez tous reçu la présentation ?,autre
+Je pense que c'est une question importante.,autre
+Ce chiffre me semble un peu étonnant.,autre
+On discutera des détails après la pause.,autre
+Quelqu'un connaît bien ce logiciel ?,autre
+Les clients apprécient surtout la simplicité.,autre
+La réunion d'hier a été très utile.,autre
+Je suis ravi de rejoindre cette équipe.,autre
+Il faudrait peut-être y réfléchir davantage.,autre
+La météo est mauvaise aujourd'hui donc beaucoup sont en télétravail.,autre
+Bon on commence alors.,autre
+Salut tout le monde on peut démarrer.,autre
+Je vous propose de commencer par le premier point.,autre
+Alors côté technique on a terminé la partie authentification.,autre
+Pour le moment la page de profil est finie.,autre
+Passons maintenant au point sur les ressources.,autre
+Maintenant on va parler du calendrier.,autre
+Parlons un peu du recrutement.,autre
+On avait dit livraison en mars non ?,autre
+On avait prévu une réunion le vendredi si je me souviens bien.,autre
+Ok ça me va.,autre
+Oui c'est bon pour moi.,autre
+Parfait pour moi aussi.,autre
+D'accord je vois ce que tu veux dire.,autre
+Ça marche merci pour l'info.,autre
+Très bien merci pour ces précisions.,autre
+Moi je préfère l'option du matin.,autre
+Je trouve qu'on devrait plutôt attendre.,autre
+On pourrait peut-être regarder une autre option.,autre
+Une dernière chose avant de finir.,autre
+Et voilà c'était tout pour aujourd'hui.,autre
+Moi j'ai un souci avec l'affichage sur mobile.,autre
+Le test de ce matin ne fonctionne pas encore.,autre
+Il y a un problème de configuration sur ce serveur.,autre
+Est-ce que tu penses pouvoir finir à temps ?,autre
+Tu as une idée de la date de fin ?,autre
+Je suis d'accord avec Karim sur ce point.,autre
+Bonne idée mais il faut y réfléchir.,autre
+Merci beaucoup bonne continuation.,autre
+Ça risque de coûter plus cher que prévu.,autre

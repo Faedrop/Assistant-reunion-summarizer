@@ -1,51 +1,65 @@
-# Liste des mots d'hésitation à supprimer (tu peux en ajouter)
-FILLERS = ["euh", "heu", "hmm", "hum", "ben", "bah"]
+MOTS_INUTILES = ["euh", "heu", "hmm", "hum", "ben", "bah"]
 
 
-def parse_line(line):
-    """Transforme '[00:45] Karim: texte' en dictionnaire."""
-    line = line.strip()
-    if not line.startswith("["):
-        return None  # ligne qui n'a pas le bon format
+def lire_ligne(ligne):
+    """Transforme '[00:45] Karim: bonjour' en dictionnaire."""
+    ligne = ligne.strip()
 
-    fin_heure = line.find("]")              # position du ']'
-    heure = line[1:fin_heure]               # "00:45"
-    reste = line[fin_heure + 1:].strip()    # "Karim: texte"
+    # Si la ligne ne commence pas par '[', on l'ignore
+    if not ligne.startswith("["):
+        return None
 
-    locuteur, texte = reste.split(":", 1)   # coupe au premier ':'
-    return {"time": heure, "speaker": locuteur.strip(), "text": texte.strip()}
+    position_crochet = ligne.find("]")
+    heure = ligne[1:position_crochet]            # ex: "00:45"
+    reste = ligne[position_crochet + 1:].strip() # ex: "Karim: bonjour"
+
+  
+    if ":" not in reste:
+        return None
+
+    nom, texte = reste.split(":", 1)             # coupe au premier ':'
+
+    return {"time": heure, "speaker": nom.strip(), "text": texte.strip()}
 
 
-def clean_text(text):
+def nettoyer_texte(texte):
     """Enlève les 'euh' et les mots répétés."""
     mots_gardes = []
-    mot_precedent = ""
+    mot_avant = ""
 
-    for mot in text.split():
-        # on enlève la ponctuation pour comparer: "euh," -> "euh"
+    for mot in texte.split():
+        
         mot_simple = mot.lower().strip(",.!?;:")
 
-        if mot_simple in FILLERS:
-            continue  # on saute ce mot
-        if mot_simple == mot_precedent:
-            continue  # mot répété ("je je"), on saute
+        if mot_simple in MOTS_INUTILES:
+            continue            
+        if mot_simple == mot_avant:
+            continue            # mot répété ("je je"), on saute
+
         mots_gardes.append(mot)
-        mot_precedent = mot_simple
+        mot_avant = mot_simple
 
-    texte = " ".join(mots_gardes)
-    if texte:
-        texte = texte[0].upper() + texte[1:]  # majuscule au début
-    return texte
+    texte_propre = " ".join(mots_gardes)
+
+    # Majuscule au début de la phrase
+    if texte_propre != "":
+        texte_propre = texte_propre[0].upper() + texte_propre[1:]
+
+    return texte_propre
 
 
-def clean_transcript(raw_text):
-    """Lit tout le transcript et retourne une liste de prises de parole propres."""
+def nettoyer_transcript(texte_brut):
+    """Lit tout le transcript et retourne la liste des prises de parole propres."""
     resultat = []
-    for line in raw_text.splitlines():
-        u = parse_line(line)
-        if u is None:
+
+    for ligne in texte_brut.splitlines():
+        prise = lire_ligne(ligne)
+        if prise is None:
             continue
-        u["text"] = clean_text(u["text"])
-        if u["text"]:
-            resultat.append(u)
+
+        prise["text"] = nettoyer_texte(prise["text"])
+
+        if prise["text"] != "":
+            resultat.append(prise)
+
     return resultat
