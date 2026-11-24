@@ -1,19 +1,26 @@
 from fpdf import FPDF
-
-
 def pour_pdf(texte):
     """Remplace les caractères que la police du PDF ne sait pas écrire."""
     if texte is None:
         return ""
+
     remplacements = {
         "’": "'", "‘": "'", "“": '"', "”": '"',
-        "–": "-", "—": "-", "…": "...", "\u00a0": " ",
+        "–": "-", "—": "-", "…": "...",
     }
     for ancien, nouveau in remplacements.items():
         texte = texte.replace(ancien, nouveau)
-    # Si un caractère reste incompatible, on le remplace par '?'
-    return texte.encode("latin-1", "replace").decode("latin-1")
 
+    # Tous les espaces bizarres (insécables, fines...) deviennent un espace normal
+    resultat = ""
+    for caractere in texte:
+        if caractere.isspace():
+            resultat = resultat + " "
+        else:
+            resultat = resultat + caractere
+
+    # Si un caractère reste incompatible, on le remplace par '?'
+    return resultat.encode("latin-1", "replace").decode("latin-1")
 
 def ecrire_titre(pdf, texte):
     pdf.set_font("Helvetica", "B", 13)
