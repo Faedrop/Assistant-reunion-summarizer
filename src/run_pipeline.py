@@ -7,6 +7,8 @@ from slots import remplir_infos
 from topics import decouper_en_sujets, trouver_mots_cles
 from summary import resumer_sujet
 from report import construire_compte_rendu, sauvegarder_json, sauvegarder_markdown
+from export_pdf import sauvegarder_pdf
+
 
 FICHIER = "data/reunion2.txt"   # change ici pour tester une autre réunion
 
@@ -50,5 +52,6 @@ cr = construire_compte_rendu("Compte rendu de réunion", participants,
 os.makedirs("output", exist_ok=True)
 sauvegarder_json(cr, "output/compte_rendu.json")
 sauvegarder_markdown(cr, "output/compte_rendu.md")
+sauvegarder_pdf(cr, "output/compte_rendu.pdf")
 
 print("Terminé ! Ouvre output/compte_rendu.md")
